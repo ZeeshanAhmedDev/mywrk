@@ -44,7 +44,7 @@ option = {
   },
   series: [
     {
-      type: 'themeRiver',
+      type: 'themeRiverj',
       emphasis: {
         itemStyle: {
           shadowBlur: 20,
